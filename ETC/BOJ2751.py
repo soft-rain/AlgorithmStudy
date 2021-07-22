@@ -5,4 +5,6 @@ arr = []
 for i in range(N):
     arr.append(int(sys.stdin.readline()))
 for i in sorted(arr):
-    sys.stdout.write(str(i))
+    sys.stdout.write(str(i) + "\n")
+
+# input은 시간 오래걸림!!
