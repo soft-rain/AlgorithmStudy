@@ -28,6 +28,10 @@ alphabet = [
 ]
 
 st = list(input())
+<<<<<<< HEAD
+=======
+print(st)
+>>>>>>> 96fab5c376adb98e6a24699144b9b9e7bc57334d
 
 for i in range(26):
     ans = st.count(alphabet[i])
