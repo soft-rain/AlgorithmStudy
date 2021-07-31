@@ -28,7 +28,6 @@ alphabet = [
 ]
 
 st = list(input())
-print(st)
 
 for i in range(26):
     ans = st.count(alphabet[i])
