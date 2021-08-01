@@ -28,6 +28,7 @@ alphabet = [
     "y",
     "z",
 ]
+
 st = list(sys.stdin.readline())
 
 for i in alphabet:
