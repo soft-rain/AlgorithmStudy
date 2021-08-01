@@ -26,7 +26,6 @@ alphabet = [
     "y",
     "z",
 ]
-
 st = list(input())
 
 for i in range(26):
